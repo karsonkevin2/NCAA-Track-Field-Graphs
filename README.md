@@ -20,13 +20,12 @@ spikes are advertisted as intended for the 1500m-10000m, so these performances c
 directly to the spikes.
 
 ## Graphs
-![100m](/Images/100.svg)
-![200m](/Images/200.svg)
-![400m](/Images/400.svg)
-![800m](/Images/800.svg)
-![1500m](/Images/1500.svg)
-![5000m](/Images/5000.svg)
-![10000m](/Images/10000.svg)
+| | |
+| --- | --- |
+![100m](/Images/100.svg) | ![200m](/Images/200.svg)
+![400m](/Images/400.svg) | ![800m](/Images/800.svg)
+![1500m](/Images/1500.svg) | ![5000m](/Images/5000.svg)
+![10000m](/Images/10000.svg) | 
 
 ## Other notes
 These charts have a few other noteworthy features. The first thing to notice is the characteristic shape. At the fastest extreme, there is a region
